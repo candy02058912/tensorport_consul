@@ -4,7 +4,7 @@ setup(
     name='tensorport_consul',
     version='1.0.0',
     py_modules=[
-        '__init__', 'api', 'serializer', 'settings', 'utils',
+        'tensorport_consul',
     ],
     packages=find_packages(),
     include_package_data=True,
