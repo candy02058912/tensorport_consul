@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tensorport_consul',
-    version=1.0.0,
+    version='1.0.0',
     py_modules=[
         'api', 'serializer', 'settings', 'utils',
     ],
